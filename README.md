@@ -22,3 +22,10 @@ YOLO 모델과 이미지 분류 모델을 학습시키고 Deep Learning 알고�
 # Reference
 1. https://github.com/augmentedstartups/YOLOv4-Tutorials
 2. https://github.com/VictorLin000/YOLOv3_mask_detect
+
+# Member
+- 공재호([asebn1](https://github.com/asebn1))
+- 이민호([yeemh](https://github.com/yeemh))
+- 이승민([effectivemadness](https://github.com/effectivemadness))
+- 지호진([sj59228](https://github.com/sj59228))
+
