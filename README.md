@@ -11,7 +11,7 @@ YOLO 모델과 이미지 분류 모델을 학습시키고 Deep Learning 알고�
 용해 실시간으로 알려 예방할 수 있도록 기대한다.
 
 # 환경 설정
-1. install YOLO v4 following github.com/augmentedstartups/YOLOv4-Tutorials
+1. install YOLO v4 following https://github.com/augmentedstartups/YOLOv4-Tutorials
 2. Download CUDNN DLLs (cudnn64_8.dll) from [Nvidia](https://developer.nvidia.com/rdp/cudnn-archive)
 3. download [Weights](https://drive.google.com/file/d/1PTlUjXHEavLScCeZcZjbW_oldgi6EJg6/view?usp=sharing)
 4. run 'Social_Distance_avg_run' 
@@ -20,5 +20,5 @@ YOLO 모델과 이미지 분류 모델을 학습시키고 Deep Learning 알고�
 ![s](https://user-images.githubusercontent.com/59173164/102960993-9a9d3580-4526-11eb-9a62-8421a4aef3ef.PNG)
 
 # Reference
-1. github.com/augmentedstartups/YOLOv4-Tutorials
+1. https://github.com/augmentedstartups/YOLOv4-Tutorials
 2. https://github.com/VictorLin000/YOLOv3_mask_detect
