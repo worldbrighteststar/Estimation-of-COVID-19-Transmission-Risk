@@ -18,7 +18,8 @@ YOLO 모델과 이미지 분류 모델을 학습시키고 Deep Learning 알고�
 
 # 실행 화면
 ![s](https://user-images.githubusercontent.com/59173164/102960993-9a9d3580-4526-11eb-9a62-8421a4aef3ef.PNG)
-![image](https://user-images.githubusercontent.com/59173164/111056061-6307af00-84bf-11eb-9b34-de27d4e40e35.png)
+![다운로드](https://user-images.githubusercontent.com/59173164/111056091-aeba5880-84bf-11eb-91d0-566255ab9d27.gif)
+
 
 # Reference
 1. https://github.com/augmentedstartups/YOLOv4-Tutorials
