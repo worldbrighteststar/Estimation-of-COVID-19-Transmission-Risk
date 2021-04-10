@@ -26,7 +26,7 @@ YOLO 모델과 이미지 분류 모델을 학습시키고 Deep Learning 알고�
 2. https://github.com/VictorLin000/YOLOv3_mask_detect
 
 # Member
-- 최성원([worldbrighteststar])
+- 최성원([worldbrighteststar](https://github.com/worldbrighteststar))
 - 공재호([asebn1](https://github.com/asebn1))
 - 이민호([yeemh](https://github.com/yeemh))
 - 이승민([effectivemadness](https://github.com/effectivemadness))
