@@ -1,5 +1,6 @@
 ﻿# Estimation-of-COVID-19-Transmission-Risk
 Real-time Screen Analysis using Object and Scene Detection(~2020.12)
+
 한국소프트웨어종합학술대회 학부생 논문 부문 장려상(2021.02.03)
 
 # 내용
