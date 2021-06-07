@@ -1,5 +1,6 @@
 ﻿# Estimation-of-COVID-19-Transmission-Risk
-Real-time Screen Analysis using Object and Scene Detection(2020.12.)
+Real-time Screen Analysis using Object and Scene Detection(~2020.12)
+한국소프트웨어종합학술대회 학부생 논문 부문 장려상(2021.02.03)
 
 # 내용
 COVID-19의 확산과 지속으로 외출에 대한 불안은 증가하고 있다. 이에 국내 마스크 착용 의무화 지침이
